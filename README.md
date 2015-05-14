@@ -51,3 +51,6 @@
    не требует дополнительного сервиса точного времени, а подразумевает, что
    время на сервере корректно:
    ![рисунок](https://raw.githubusercontent.com/trdata/test-timeserver/master/task1.png)
+
+# Отдельные моменты
+- для реализации SockJS сервера (в Python) используйте: (https://github.com/DesertBus/sockjs-twisted)
